@@ -44,7 +44,7 @@ html,body{
 #go-top a ion-icon{
     position: fixed;
     z-index: 2;
-    margin-top: 95vh;
+    margin-top: 90vh;
     margin-left: 100%;
     padding: 2px;
     border-radius: 50% 0 0 50%;
